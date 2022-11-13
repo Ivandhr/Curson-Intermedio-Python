@@ -1,2 +1,2 @@
 # Curson-Intermedio-Python
-Clases del Curso de Python Intermedio: Comprehensions, Lambdas y Manejo de Errores
+Curso de Python Intermedio: Comprehensions, Lambdas y Manejo de Errores
