@@ -5,7 +5,7 @@ def divisors(num):
     #        divisors.append(i)
     try:
         if num < 0:
-            raise ValueError('Debes ingrear un número negativo')
+            raise ValueError('Debes ingresar un número positivo')
         divisors = [i for i in range(1, num + 1) if num % i == 0]
         return divisors
     except ValueError as ve:
